@@ -277,10 +277,10 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
-  gap: 2rem;
+  flex-wrap: row;
+  gap: 1rem;
   margin-top: 3rem;
-  padding: 2rem;
+  padding: 3rem;
   background-color: white;
   border-radius: 10px;
 }
