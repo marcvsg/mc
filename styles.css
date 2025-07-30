@@ -175,9 +175,8 @@ nav {
 
 .hero-buttons {
   display: flex;
-  gap: 1rem;
   justify-content: center;
-  flex-wrap: wrap;
+  align-items: center;
 }
 
 .cta-button {
